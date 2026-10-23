@@ -67,17 +67,7 @@ public class Part2 {
                 }else{
                     System.out.println("Error on message enter less than 250 charecters");
                 }
-                
-                break;
-            case 2:
-                System.out.println("coming soon");
-            break;
-            case 3:
-                System.exit(0);
-            break;
-            default:
-                System.out.println("Inavalid number inputed");
-            
+        
         }
         
        
