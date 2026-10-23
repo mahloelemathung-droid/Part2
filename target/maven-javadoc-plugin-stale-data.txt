@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+26
+-sourcepath
+'C:/Users/Mathung/OneDrive/Documentos/NetBeansProjects/Part2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Mathung/OneDrive/Documentos/NetBeansProjects/Part2/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Part2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Part2 1.0-SNAPSHOT API'
+com.mycompany.part2
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\src\main\java = 1791206927427
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\allclasses-index.html = 1792141015141
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\allpackages-index.html = 1792141015143
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\element-list = 1792141015105
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\help-doc.html = 1792141015163
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\index-all.html = 1792141015155
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\index.html = 1792141015159
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\member-search-index.js = 1792141015148
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\module-search-index.js = 1792141015144
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\overview-tree.html = 1792141015134
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\package-search-index.js = 1792141015146
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\search.html = 1792141015157
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\tag-search-index.js = 1792141015149
+C:\Users\Mathung\OneDrive\Documentos\NetBeansProjects\Part2\target\reports\apidocs\type-search-index.js = 1792141015147
