@@ -31,9 +31,14 @@ public class MessageTest {
     public static void tearDownClass() throws Exception {
     }
 
+   /**
+    * 
+    * @throws Exception 
+    */
     @org.junit.jupiter.api.BeforeEach
     public void setUp() throws Exception {
     }
+    
 
     /**
      *
