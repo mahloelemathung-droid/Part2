@@ -19,6 +19,10 @@ public class MessageTest {
     public MessageTest() {
     }
 
+    /**
+     *
+     * @throws Exception
+     */
     @org.junit.jupiter.api.BeforeAll
     public static void setUpClass() throws Exception {
     }
@@ -31,6 +35,10 @@ public class MessageTest {
     public void setUp() throws Exception {
     }
 
+    /**
+     *
+     * @throws Exception
+     */
     @org.junit.jupiter.api.AfterEach
     public void tearDown() throws Exception {
     }
