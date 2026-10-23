@@ -176,7 +176,10 @@ public class QuickChat {
         String firstWord = words[0];
         String lastWord = words[words.length - 1];
 
-        
+        return messageID.substring(0, 2)
+                + ":" + messageNumber
+                + ":" + firstWord
+                + ":" + lastWord;
     }
 }
 
